@@ -247,6 +247,65 @@ The proposal is named "京张智脉·光晕 / Jing-Zhang AI Heritage Halo." The 
 7. AI education experience and science popularization base (along the Jing-Zhang Heritage Park corridor)
 8. Global AI talent exchange and international roadshow center (Dazhongsi)
 
+### AI Innovation Ecosystem Map
+
+To respond to the taskbook's explicit requirement for an "AI ecosystem map," the following four-dimensional framework constructs this proposal's AI innovation ecosystem (conceptual, pending industrial planning and operational conditions) [source:AGENT-TASKBOOK] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]:
+
+**Dimension 1: Innovation Actors**
+
+| Actor Type | Role | Core Needs | Spatial Location | Interconnections | Estimated Count |
+| --- | --- | --- | --- | --- | --- |
+| Basic research institutions | AI knowledge production | Compute, data, cross-disciplinary collaboration | University labs, Future Science City | Supply frontier tech to incubators | 5-8 universities/institutes |
+| Technology incubators | Achievement transformation bridge | Early-stage investment, test scenarios, industry connections | Origin Community transformation street | Connect research institutions and startups | 3-5 incubators |
+| AI startups | Technology productization | Low-cost space, compute, testing, market | Zhongzhi Park, Origin Community | Enter acceleration zone after incubation | 50-100 enterprises |
+| AI anchor enterprises | Industry driving force | Display space, ecosystem collaboration, talent | Dazhongsi AI Cluster | Provide ecosystem entry for SMEs | 5-10 enterprises |
+| Testing/validation bodies | Safety & compliance gatekeeping | Standard test environment, model red-teaming | Zhongzhi test field, Dazhongsi | Serve all actors | 2-3 bodies |
+| Investment institutions | Capital enablement | Quality projects, exit pathways | Roadshow center, online platform | Provide funding at all stages | 10-20 institutions |
+| Community and users | Demand & feedback source | Public space, AI services, right to know | All public spaces | Provide real participation for scenarios | Surrounding residents + visitors |
+
+**Dimension 2: Factor Flows**
+
+| Factor Type | Supply Side | Demand Side | Flow Mechanism | Governance Boundary | Dependencies |
+| --- | --- | --- | --- | --- | --- |
+| Compute | Compute centers, edge nodes | R&D + enterprises | Public compute subsidy + market pricing | Data stays within domain, compute not for sensitive use | Compute network, energy assurance |
+| Data | Public data, enterprise authorization, user authorization | Training + testing + validation | Tiered authorization + compliance review | Data minimization, no personal trajectory collection | Data classification standards |
+| Talent | Universities, community, global | Enterprises + incubators | Joint training + talent programs + global recruitment | No discrimination, no exclusivity | Talent policy, housing |
+| Capital | Government guide fund + industry fund + VC | Startup + incubation + expansion | Equity investment + achievement transformation fund | Fair access, compliant exit | Fund establishment, exit mechanism |
+| Scenarios | Public space, community, enterprises | R&D + testing + display | Scenario open plan + public booking | Data minimization, human review | Scenario agreement, security review |
+| Standards | Standards bodies + governance alliance | Testing + certification + compliance | Standards participation + compliance self-assessment | Open transparent, multi-stakeholder | Standards initiation, organizational structure |
+
+**Dimension 3: Spatial Carriers**
+
+```
+Spatial hierarchy:    Master planning scope (43.6 km²)
+                           ↕
+                  Overall design scope (11.4 km²)
+                    ↕              ↕
+            West Wing (services) ←→ Three Cores (Zhongzhi→Origin→Dazhongsi) ←→ East Wing (scenarios)
+                    ↕              ↕
+            Zhongguancun Science City   Jing-Zhang Heritage Park (connector)
+```
+
+**Carrier–function mapping:**
+- Zhongzhi Park → Full-stack independent innovation (hardware + software + algorithms + standards)
+- Origin Community → Achievement transformation & open-source collaboration (research → prototype → market)
+- Dazhongsi → Intelligent economy & industry cluster (enterprise + display + transaction)
+- West Wing (Zhongguancun Avenue) → Fintech + IP + standards/testing
+- East Wing (Xiaoyuehe) → Scenario open + data empowerment + public testing
+- Jing-Zhang Heritage Park → Slow-mobility connection + public space + cultural narrative
+
+**Dimension 4: Governance Mechanisms**
+
+| Governance Level | Governance Object | Governance Mechanism | Responsible Body | Compliance Boundary |
+| --- | --- | --- | --- | --- |
+| Data governance | All factor data flows | Data classification + authorization + audit trail | Data governance committee | Data minimization, user authorization, no personal trajectory |
+| Model governance | AI service full lifecycle | Model red-teaming + fairness testing + security evaluation | Independent security audit body | Adversarial testing, bias detection, failure degradation |
+| Scenario governance | Scenario open and operation | Scenario access + human review + complaint/fallback | Community co-governance committee | Human service guarantee, non-smart-device channels |
+| Spatial governance | Public space use | Booking mechanism + conflict resolution + usage evaluation | Public space operator | Non-exclusive, non-encroachment on public interest |
+| Standards governance | Full-chain standards participation | Standards working group + compliance self-assessment + mutual recognition | Standards governance consortium | Open transparent, multi-stakeholder participation |
+
+> The above AI innovation ecosystem map is a conceptual framework based on public industrial planning and AI ecosystem development trends, not confirmed industrial policy or cooperative arrangements. Specific actors, factors, spaces, and governance mechanisms must be confirmed during the detailed design phase by industrial planning, spatial conditions, and operating entities.
+
 **Agent.3 — AI+ Scenario Empowerment Paradigm (10 Scenario Cards + 3 Industry Test/Validation Scenarios)**
 The 10 scenario cards are listed in the "AI+ Scenarios" chapter table. The 3 industry test/validation scenarios:
 1. Zhongzhi Park Security Governance Sandbox — AI model red-teaming and standard verification
@@ -261,21 +320,42 @@ The 10 scenario cards are listed in the "AI+ Scenarios" chapter table. The 3 ind
 3. **Dazhongsi · Digital Bell Tower**: Combine the historical bell of Dazhongsi with AI-generated sound art to create a sound landmark where "every chime is a dialogue between history and the future."
 
 **Public Space Component Library (conceptual design suggestions, to be verified during detailed design):**
-| Component | Type | Applicable Location | Description |
-| --- | --- | --- | --- |
-| Smart Wayfinding Kiosk | Information device | Heritage park entrances, transit station exits | Slow-mobility navigation, scenario activity info, multilingual service; design consistent with Jing-Zhang Railway elements |
-| Code Display Column | Public art | Zhongzhi Park, Origin Community, Dazhongsi | Transparent cylinder displaying open-source code snippets; QR code links to full repository |
-| Data Flow Speed-Read Screen | Digital interface | Zhongzhi Park, Dazhongsi | Real-time anonymized public data flow (energy efficiency, usage heatmap, event count); no personal data displayed |
-| Slow-Mobility Charging Post | Service facility | Heritage park trail | Integrated phone charging, Wi-Fi, environmental sensor; "smart sleeper" form factor |
-| Community Notice Board | Information device | Community–commerce intersections | Non-digital service guarantee: paper-readable board + manual updates, no smart device dependency |
-| Waterfront Rest Node | Spatial node | Qinghe and Xiaoyuehe banks | Combined stormwater management, ecological display, AI environmental interpretation, and seating |
+
+This component library is a set of basic modules for public space design, covering six categories: information, art, digital, service, nature, and accessibility. Components follow the principles of "composable, extensible, reversible" and can flexibly adapt to different site conditions. All components include non-digital alternatives.
+
+| Component | Category | Type | Applicable Location | Description | Non-Digital Alternative | Maintenance Responsibility |
+| --- | --- | --- | --- | --- | --- | --- |
+| Smart Wayfinding Kiosk | Information | Information device | Heritage park entrances, transit station exits | Slow-mobility navigation, scenario activity info, multilingual service; design consistent with Jing-Zhang Railway elements | Static map + human inquiry desk | Public space operator |
+| Code Display Column | Art | Public art | Zhongzhi Park, Origin Community, Dazhongsi | Transparent cylinder displaying open-source code snippets; QR code links to full repository | Printed exhibition panels | Community co-governance committee |
+| Data Flow Speed-Read Screen | Digital | Digital interface | Zhongzhi Park, Dazhongsi | Real-time anonymized public data flow (energy efficiency, usage heatmap, event count); no personal data displayed | Monthly printed data report | Data governance committee |
+| Slow-Mobility Charging Post | Service | Service facility | Heritage park trail | Integrated phone charging, Wi-Fi, environmental sensor; "smart sleeper" form factor | Manual charging station | Public space operator |
+| Community Notice Board | Information | Information device | Community–commerce intersections | Non-digital service guarantee: paper-readable board + manual updates, no smart device dependency | This component is itself the non-digital solution | Community committee |
+| Waterfront Rest Node | Nature | Spatial node | Qinghe and Xiaoyuehe banks | Combined stormwater management, ecological display, AI environmental interpretation, and seating | None (direct experience) | Municipal + landscape operator |
+| Accessibility Guidance Strip | Accessibility | Tactile facility | All public space main pathways | Tactile ground guidance + voice prompts, covering all key junctions and facility entrances | Human guidance | Public space operator |
+| AI Interactive Q&A Kiosk | Digital | Interactive device | One per key area | Voice and text responses to AI innovation belt questions; designed as Jing-Zhang railway signal booth | Printed Q&A brochure | University + operator |
+| Slow-Mobility Mileage Marker | Information | Signage system | Every 500m on main slow-mobility routes | Distance traveled, next node ahead, calories burned; designed as railway milepost | Traditional milepost | Public space operator |
+| Flexible Event Plaza | Space | Multi-purpose space | 1-2 per key area | Hardscape plaza switchable between market, exhibition, roadshow, community event, and emergency shelter | Fixed function area map | Zone operator |
+| Community Planting Box | Nature | Participatory facility | Community–public space boundary | Box-style gardening plots adoptable by residents; combined with stormwater management and community agriculture | Traditional community garden | Community committee |
+| Temporary Exhibition Frame | Art | Reversible facility | Heritage park trail, key area plazas | Lightweight, demountable exhibition system for student works, community outcomes, and AI prototypes | Exhibition boards + stands | Community + operator |
 
 **Honor Display System (conceptual design suggestions, subject to implementation plan):**
-- **Public Data Contributor Honor Wall**: Physical honor wall in Zhongzhi Park core area, rotating display of individuals/organizations contributing to public datasets and AI scenario open programs (with authorization)
-- **Open-Source Contributor Digital Display**: Digital screen in Origin Community open-source hall, showing open-source community code contributor leaderboard (from public repos, no personal privacy)
-- **AI Governance Pioneer Board**: Exhibition area in Dazhongsi International Roadshow Hall, recording exemplary contributions to AI safety governance, standard-setting, and ethical review (with contributor authorization)
-- **Annual AI Innovation Award**: Proposed for presentation during the annual Jing-Zhang AI Innovation Week, recognizing outstanding projects in AI urban applications, scenario openness, and public interest protection
-- **Operating Principles**: All content requires authorization; no personal sensitive information; annual refresh; content reviewed by community governance committee
+
+The honor display system covers five dimensions: **data contribution, open-source collaboration, governance innovation, AI art, and community participation**. Each dimension has a physical display carrier and operating rules:
+
+| Honor Dimension | Display Carrier | Location | Cycle | Content Source | Authorization Requirement | Operating Rules |
+| --- | --- | --- | --- | --- | --- | --- |
+| Data contribution | Public Data Contributor Honor Wall | Zhongzhi Park core | Rolling update | Public dataset and scenario open plan contributors | Individual/entity name must be authorized | Annual review; no personal sensitive information |
+| Open-source collaboration | Open-Source Contributor Digital Display | Origin Community open-source hall | Real-time update | Public repo code contribution data | Authorized use of GitHub public data | Only display authorized contributors |
+| Governance innovation | AI Governance Pioneer Board | Dazhongsi Roadshow Hall | Annual update | Safety governance, standard-setting, ethics review cases | Cases must be authorized | Community governance committee review |
+| AI art | Digital Art Display Wall | Jing-Zhang Heritage Park | Quarterly update | AI-generated artworks, student works | Creator authorization | Content review + copyright attribution |
+| Community participation | Community Contribution Board | Next to community notice board | Quarterly update | Volunteer, community activity participation records | Personal names must be authorized | No personal information displayed |
+
+**Operating Principles**:
+- All content requires authorization; no personal sensitive information
+- At least annual refresh; content reviewed by community governance committee
+- Digital screens must have printed quarterly honor booklets as non-digital alternatives
+- Honor display not used as commercial advertising or investment basis; no display fees charged
+- Any displayed entity may request removal within 5 business days
 
 **Agent.5 — Integrated Narrative of Centennial Jing-Zhang Culture, Zhongguancun Culture, and AI New Culture**
 Three-layer cultural integration narrative:
@@ -296,6 +376,24 @@ Three-layer cultural integration narrative:
 - **Core zone (three cores)**: Zhongzhi Park (full-stack innovation), AI Origin Community (achievement transformation), Dazhongsi (intelligent economy), connected by the Jing-Zhang Heritage Park vitality belt, forming an "R&D–validation–display" industrial closed loop
 - **West wing (Zhongguancun Science & Technology Service Wing)**: extends south along Zhongguancun Avenue connecting the Zhongguancun Science City core, focusing on fintech, IP, standards/testing, and AI governance services; specific spatial nodes pending formal regulatory plan
 - **East wing (Xiaoyuehe Scenario Empowerment Wing)**: extends north along the Xiaoyuehe ecological corridor connecting university and research clusters, deploying AI open scenario labs, public data marketplaces, and community AI experience stations; specific sites pending Xiaoyuehe waterfront survey and regulatory plan
+
+**Xiaoyuehe Scenario Empowerment Wing Detailed Plan (conceptual, pending Xiaoyuehe waterfront survey and regulatory plan):**
+
+| Scenario Node | Location | Service Targets | Description | Space Requirements | Data Sources | Suggested Operator | Dependencies | Phase |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SM-01 Open Scenario Lab | Near university cluster on Xiaoyuehe mid-section | University researchers, startups | Deploy AI research (NLP, CV, embodied AI) to real urban public space for A/B testing and user feedback collection | 200-500m² indoor+outdoor test space, sensor deployment points | Participant authorized data + anonymous aggregated environmental data | University + operator joint venture | Data authorization agreement, ethics review | Near-term (1-3yr) pilot |
+| SM-02 Public Data Marketplace | Xiaoyuehe-university boundary | Developers, data providers | Display, query, authorize, and download open datasets to foster AI training data ecosystem | ~100m² small display space, mirrored online platform | Only compliant open data + public data | Third-party data governance body | Data classification standards, authorization framework | Near-term (1-3yr) |
+| SM-03 Community AI Experience Station | Xiaoyuehe community nodes | Residents, elderly, children | Tangible AI application demos (image recognition, voice interaction, smart guide) with human service support | 50-100m², accessible from waterfront path | Only public demo data + local de-identified samples | Community + volunteer operator | Equipment safety, content compliance | Near-term (1-3yr) |
+| SM-04 Scenario Data Feedback Corridor | Full Xiaoyuehe slow-mobility system | All visitors | Anonymous data collection points (usage, environment, path) along the corridor, aggregated and de-identified data fed back to universities and R&D teams | Sensor nodes ~500m apart, landscape-integrated | Anonymous aggregated data (no personal trajectory) | Public space operator | Data minimization principle, privacy impact assessment | Mid-term (3-7yr) |
+| SM-05 Xiaoyuehe AI Dialogue Bank | Xiaoyuehe-Jing-Zhang Park intersection | All visitors | AI interactive installations along the waterfront responding to history, ecology, and AI knowledge queries; design language unified with Jing-Zhang railway elements | 3-5 interactive nodes, linear along water | Public knowledge base + anonymous interaction logs | University + public space operator | Content review mechanism, security review | Mid-term (3-7yr) |
+| SM-06 Industry-Education Test Field | Xiaoyuehe north section near university | Universities, enterprises | Field test site for university AI courses, where students can deploy and validate AI models in real urban environments | Flexible deployment, reusable public space | Education-purpose authorized data | University + enterprise joint venture | Curriculum agreement, security review | Long-term (7-15yr) |
+
+**Xiaoyuehe Scenario Wing Operating Mechanism (conceptual):**
+- **Data loop**: anonymous aggregated data from scenario nodes is fed back to universities for research; research results are validated in the scenario lab and returned, forming a "research→test→feedback→optimize" data loop
+- **Open access**: scenario nodes are open to universities, startups, and independent developers via a public booking system, with no access barrier but adherence to data minimization and privacy protocols
+- **Spatial flexibility**: scenario nodes use lightweight temporary facilities, leveraging existing public space ground floors and building ground floors without large-scale construction, ensuring reversibility
+- **Relationship with the three cores**: the east wing provides real-world scenario validation data for Zhongzhi Park's full-stack innovation, test space for Origin Community's achievement transformation, and user feedback for Dazhongsi's intelligent economy — "demand comes from scenarios, solutions come from cores"
+
 - **Synergy mechanism**: the three cores are physically connected by the Jing-Zhang Heritage Park slow-mobility system, while the east/west wings form a "service–scenario" loop through industrial complementarity and data sharing; the specific operating architecture, responsible entities, and KPIs must be jointly determined during the detailed design phase
 
 **Regional collaboration framework (conceptual directions, pending formal agreements):**

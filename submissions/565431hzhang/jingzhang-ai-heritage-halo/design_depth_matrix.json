@@ -810,6 +810,56 @@
         "VISUAL_STATIC"
       ],
       "evidence_summary_zh": "本深度项由 proposal.md 的可读解释、图纸成果、结构化图层、指标复算和自检结果共同支撑。"
+    },
+    {
+      "depth_id": "xiao_yue_he_scene_wing",
+      "title_zh": "小月河场景赋能翼详细规划",
+      "title_en": "Xiaoyue River Scene Empowerment Wing",
+      "description_zh": "小月河场景赋能翼的6个场景节点（开放场景实验室、公共数据集市、社区AI体验站、数据回馈走廊、AI对话岸、产教融合测试场），含空间布局、运营机制、数据闭环与三核联动关系",
+      "report_sections": [
+        "小月河场景赋能翼详细规划"
+      ],
+      "geojson_layers": [
+        "geometry/green_space.geojson",
+        "geometry/public_space.geojson"
+      ],
+      "status": "concept"
+    },
+    {
+      "depth_id": "ai_ecosystem_map",
+      "title_zh": "AI创新生态图谱",
+      "title_en": "AI Ecosystem Map",
+      "description_zh": "四维生态图谱：创新主体（7类主体及相互关联）、要素流动（6类要素的供给-需求-流通机制）、空间载体（三核两翼公园结构）、治理机制（5层治理框架）",
+      "report_sections": [
+        "AI创新生态图谱（AI Ecosystem Map）"
+      ],
+      "geojson_layers": [],
+      "status": "concept"
+    },
+    {
+      "depth_id": "public_space_component_library",
+      "title_zh": "公共空间组件库",
+      "title_en": "Public Space Component Library",
+      "description_zh": "12类公共空间组件（信息/艺术/数字/服务/自然/无障碍六大类别），含设计说明、非数字替代方案与维护责任",
+      "report_sections": [
+        "公共空间组件库"
+      ],
+      "geojson_layers": [
+        "geometry/public_space.geojson",
+        "geometry/green_space.geojson"
+      ],
+      "status": "concept"
+    },
+    {
+      "depth_id": "honor_display_system",
+      "title_zh": "荣誉展示体系",
+      "title_en": "Honor Display System",
+      "description_zh": "五维荣誉展示体系（数据贡献/开源协作/治理创新/AI艺术/社区参与），含展示载体、运营规则与授权要求",
+      "report_sections": [
+        "荣誉展示体系"
+      ],
+      "geojson_layers": [],
+      "status": "concept"
     }
   ]
 }
