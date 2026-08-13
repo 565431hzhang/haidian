@@ -63,7 +63,7 @@
       "ai_package_stages": {
         "submissions/565431hzhang/jingzhang-ai-heritage-halo": "formal"
       },
-      "total_bytes": 4577963,
+      "total_bytes": 2596672,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -136,14 +136,14 @@
       "issues": [],
       "summary": {
         "standard_matrix_items": 6,
-        "design_depth_items": 15,
+        "design_depth_items": 24,
         "known_metric_refs_required": 18,
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 17,
+          "source": 16,
           "standard": 5,
-          "depth": 16,
+          "depth": 15,
           "data": 11,
           "metric": 5
         }
