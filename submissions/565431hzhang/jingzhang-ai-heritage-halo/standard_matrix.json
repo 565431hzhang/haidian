@@ -51,7 +51,8 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
+      "evidence_summary_zh": "公告1.3(AI创新生态)/1.4(三层范围)/1.5(设计任务)在统筹研究/总体设计/重点区域章节逐条回应",
+      "coverage_status": "covered"
     },
     {
       "standard_id": "PROJECT-AGENT-OPEN-CALL-TASKBOOK",
@@ -103,7 +104,8 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
+      "evidence_summary_zh": "agent.1(品牌/logo)/agent.2(AI生态案例)/agent.3(10场景卡)/agent.4(公共空间/朝圣)/agent.5(文化叙事)/agent.6(活动运营)在AI章节和Agent任务响应章节回应",
+      "coverage_status": "covered"
     },
     {
       "standard_id": "MOHURD-URBAN-DESIGN-MEASURES",
@@ -155,7 +157,8 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
+      "evidence_summary_zh": "城市风貌三层文化(铁路/中关村/AI)；风貌控制三档(文保严格/建成引导/新建弹性)；公共空间组件库12类",
+      "coverage_status": "covered"
     },
     {
       "standard_id": "MOHURD-CONTROL-DETAILED-PLANNING",
@@ -207,7 +210,8 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
+      "evidence_summary_zh": "用地14宗覆盖率100%；建筑高度三档；容积率unknown(待控规)；拆改留35/40/25%",
+      "coverage_status": "covered"
     },
     {
       "standard_id": "MNR-LAND-USE-CLASSIFICATION-GUIDE",
@@ -259,7 +263,8 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
+      "evidence_summary_zh": "用地分类按01/0702/0802/1401/05/0701/1001/1002编码；14宗完整覆盖无重叠",
+      "coverage_status": "covered"
     },
     {
       "standard_id": "MOHURD-ARCH-DESIGN-DEPTH-2016",
@@ -311,7 +316,8 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
+      "evidence_summary_zh": "三处重点区域各有定位/建筑业态/公共空间/交通/AI场景/实施项目表",
+      "coverage_status": "covered"
     }
   ]
 }
