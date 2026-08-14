@@ -64,7 +64,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "298aedea7da858bff6c47a242be63ccb8dbe89ec81657d4519d230769717ef49"
+      "sha256": "32eae1c23ee58ada71958d80b6e76cf48efbd4850b4ab1c101d1da69a05dbf27"
     },
     {
       "path": "compliance_matrix.json",
@@ -235,7 +235,7 @@
       "path": "geometry/buildings.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "bc9e0f74a2f627650e2aa5e82881e617c73561f9e2566a32aec958b32a001595"
+      "sha256": "dd607606fcdcd604f3215e0071413e5c63c1084f9711463d765e8f0fdab337dc"
     },
     {
       "path": "geometry/constraints.geojson",
@@ -247,7 +247,7 @@
       "path": "geometry/green_space.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "71944de4b3720b5e31bb3ad50cb4e40222b15e15b6e069fc99540c47bcc9421d"
+      "sha256": "22ff2a4bd93dcc7a89a8b637bc02af4f077f829a35b8cab030fc72f57d98dc42"
     },
     {
       "path": "geometry/key_areas.geojson",
@@ -259,7 +259,7 @@
       "path": "geometry/land_use.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "9c6b0b0a8f5f87c31add125dc66f06f06cef8e971e495d8b16d1f72c2997ce57"
+      "sha256": "0edc636deea37829565d648f9f3481b35e3b4a25f425f884302d588093256a46"
     },
     {
       "path": "geometry/phasing.geojson",
@@ -271,13 +271,13 @@
       "path": "geometry/public_space.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "dd8a52b3a391117fbef6dbfaca174019875383bfe6d3b102ac4be32c72a9bdcc"
+      "sha256": "a5913de17d74fc18ebba2f87cfc89c91000aa1ea745e7824d33c3bdc340132b2"
     },
     {
       "path": "geometry/roads.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "914ab84da17d7b5d1b2ba391e382ff28a5de2da1533954cefda297bbe33b7c85"
+      "sha256": "99ec3d9578a0d1f80ae6631c84243286bcc236d56a55a380145f11f1d103097a"
     },
     {
       "path": "geometry/site_boundary.geojson",
