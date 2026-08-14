@@ -370,6 +370,108 @@
       "formula": "count(assumptions in assumptions.json)",
       "confidence": "high",
       "assumptions": []
+    },
+    "land_use_diversity_index": {
+      "status": "known",
+      "value": 0.715,
+      "unit": "ratio",
+      "source_files": [
+        "geometry/land_use.geojson"
+      ],
+      "formula": "Shannon_entropy(land_use_codes) / log(type_count)",
+      "confidence": "high",
+      "assumptions": [
+        "4 types across 14 parcels; 0802 dominates 9/14; diversity=0.715 (0=monofunctional, 1=diverse)"
+      ]
+    },
+    "green_space_type_count": {
+      "status": "known",
+      "value": 2,
+      "unit": "count",
+      "source_files": [
+        "geometry/green_space.geojson"
+      ],
+      "formula": "count(distinct green_type values)",
+      "confidence": "high",
+      "assumptions": [
+        "Types: community_park, park_green; needs ecological corridor, rain garden, green roof"
+      ]
+    },
+    "building_type_count": {
+      "status": "known",
+      "value": 5,
+      "unit": "count",
+      "source_files": [
+        "geometry/buildings.geojson"
+      ],
+      "formula": "count(distinct building_type values)",
+      "confidence": "high",
+      "assumptions": [
+        "Types: ai_r_and_d, cultural, mixed_use, residential, retail; ai_r_and_d dominates 72/129"
+      ]
+    },
+    "road_hierarchy_levels": {
+      "status": "known",
+      "value": 3,
+      "unit": "count",
+      "source_files": [
+        "geometry/roads.geojson"
+      ],
+      "formula": "count(distinct road_type values)",
+      "confidence": "high",
+      "assumptions": [
+        "Types: pedestrian_priority, primary, secondary; needs collector/bike/transit"
+      ]
+    },
+    "public_space_type_count": {
+      "status": "known",
+      "value": 3,
+      "unit": "count",
+      "source_files": [
+        "geometry/public_space.geojson"
+      ],
+      "formula": "count(distinct public_space_type values)",
+      "confidence": "high",
+      "assumptions": []
+    },
+    "green_space_feature_count": {
+      "status": "known",
+      "value": 13,
+      "unit": "count",
+      "source_files": [
+        "geometry/green_space.geojson"
+      ],
+      "formula": "count(green_space features)",
+      "confidence": "high",
+      "assumptions": [
+        "6 corridor segments + 7 community parks"
+      ]
+    },
+    "public_space_feature_count": {
+      "status": "known",
+      "value": 20,
+      "unit": "count",
+      "source_files": [
+        "geometry/public_space.geojson"
+      ],
+      "formula": "count(public_space features)",
+      "confidence": "high",
+      "assumptions": [
+        "3 plazas + 5 activity nodes + 12 pocket parks"
+      ]
+    },
+    "building_feature_count": {
+      "status": "known",
+      "value": 129,
+      "unit": "count",
+      "source_files": [
+        "geometry/buildings.geojson"
+      ],
+      "formula": "count(building features)",
+      "confidence": "high",
+      "assumptions": [
+        "Conceptual building footprints, not official survey"
+      ]
     }
   }
 }
