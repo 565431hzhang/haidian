@@ -1,1 +1,741 @@
-{"type": "FeatureCollection", "name": "green_space_halo", "features": [{"type": "Feature", "id": "GREEN-CORR-1", "properties": {"id": "GREEN-CORR-1", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "park_green", "name_zh": "京张遗址公园南段绿带", "ecological_status": "primary_corridor", "connectivity_role": "corridor", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3425, 39.94984], [116.3475, 39.94984], [116.3475, 39.939], [116.3425, 39.939], [116.3425, 39.94984]]]}}, {"type": "Feature", "id": "GREEN-CORR-2", "properties": {"id": "GREEN-CORR-2", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "park_green", "name_zh": "京张遗址公园中段绿带", "ecological_status": "primary_corridor", "connectivity_role": "corridor", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3425, 39.94984], [116.3425, 39.965], [116.3475, 39.965], [116.3475, 39.94984], [116.3425, 39.94984]]]}}, {"type": "Feature", "id": "GREEN-CORR-3", "properties": {"id": "GREEN-CORR-3", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "park_green", "name_zh": "京张遗址公园中北段绿带", "ecological_status": "primary_corridor", "connectivity_role": "corridor", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3425, 39.965], [116.3425, 39.9835], [116.3475, 39.9835], [116.3475, 39.965], [116.3425, 39.965]]]}}, {"type": "Feature", "id": "GREEN-CORR-4", "properties": {"id": "GREEN-CORR-4", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "park_green", "name_zh": "京张遗址公园AI原点段绿带", "ecological_status": "primary_corridor", "connectivity_role": "corridor", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3425, 39.9835], [116.3425, 39.9935], [116.3475, 39.9935], [116.3475, 39.9835], [116.3425, 39.9835]]]}}, {"type": "Feature", "id": "GREEN-CORR-5", "properties": {"id": "GREEN-CORR-5", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "park_green", "name_zh": "京张遗址公园过渡段绿带", "ecological_status": "primary_corridor", "connectivity_role": "corridor", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3425, 39.9935], [116.3425, 40.0075], [116.3475, 40.0075], [116.3475, 39.9935], [116.3425, 39.9935]]]}}, {"type": "Feature", "id": "GREEN-CORR-6", "properties": {"id": "GREEN-CORR-6", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "park_green", "name_zh": "京张遗址公园北段绿带", "ecological_status": "primary_corridor", "connectivity_role": "corridor", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3475, 40.0075], [116.3425, 40.0075], [116.3425, 40.02240000000012], [116.3427, 40.0265], [116.3475, 40.0265], [116.3475, 40.0075]]]}}, {"type": "Feature", "id": "GREEN-WEST-1", "properties": {"id": "GREEN-WEST-1", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "西侧社区公园A", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.341, 39.948], [116.341, 39.942], [116.34061666666666, 39.942], [116.34045, 39.948], [116.341, 39.948]]]}}, {"type": "Feature", "id": "GREEN-WEST-2", "properties": {"id": "GREEN-WEST-2", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "西侧社区公园B", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3415, 39.968], [116.3415, 39.96], [116.34011666666666, 39.96], [116.33989444444444, 39.968], [116.3415, 39.968]]]}}, {"type": "Feature", "id": "GREEN-WEST-3", "properties": {"id": "GREEN-WEST-3", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "西侧社区公园C", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.3415, 39.992], [116.3415, 39.985], [116.34034516129032, 39.985], [116.34079677419355, 39.992], [116.3415, 39.992]]]}}, {"type": "Feature", "id": "GREEN-EAST-1", "properties": {"id": "GREEN-EAST-1", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "东侧社区公园A", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.349, 39.945], [116.349, 39.952], [116.353, 39.952], [116.353, 39.945], [116.349, 39.945]]]}}, {"type": "Feature", "id": "GREEN-EAST-2", "properties": {"id": "GREEN-EAST-2", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "东侧社区公园B", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.349, 39.97], [116.349, 39.978], [116.353, 39.978], [116.353, 39.97], [116.349, 39.97]]]}}, {"type": "Feature", "id": "GREEN-EAST-3", "properties": {"id": "GREEN-EAST-3", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "东侧社区公园C", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.349, 39.995], [116.349, 40.005], [116.353, 40.005], [116.353, 39.995], [116.349, 39.995]]]}}, {"type": "Feature", "id": "GREEN-EAST-4", "properties": {"id": "GREEN-EAST-4", "layer": "GREEN_SPACE", "source_type": "agent_generated_design", "confidence": "medium", "geometry_role": "design_proposal", "green_type": "community_park", "name_zh": "东侧社区公园D", "ecological_status": "community_green", "connectivity_role": "node", "maintenance": "public_space_operator"}, "geometry": {"type": "Polygon", "coordinates": [[[116.349, 40.018], [116.349, 40.025], [116.353, 40.025], [116.353, 40.018], [116.349, 40.018]]]}}]}
+{
+  "type": "FeatureCollection",
+  "name": "green_space_halo",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "GREEN-CORR-1",
+      "properties": {
+        "id": "GREEN-CORR-1",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "park_green",
+        "name_zh": "京张遗址公园南段绿带",
+        "ecological_status": "primary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3425,
+              39.94984
+            ],
+            [
+              116.3475,
+              39.94984
+            ],
+            [
+              116.3475,
+              39.939
+            ],
+            [
+              116.3425,
+              39.939
+            ],
+            [
+              116.3425,
+              39.94984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-CORR-2",
+      "properties": {
+        "id": "GREEN-CORR-2",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "park_green",
+        "name_zh": "京张遗址公园中段绿带",
+        "ecological_status": "primary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3425,
+              39.94984
+            ],
+            [
+              116.3425,
+              39.965
+            ],
+            [
+              116.3475,
+              39.965
+            ],
+            [
+              116.3475,
+              39.94984
+            ],
+            [
+              116.3425,
+              39.94984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-CORR-3",
+      "properties": {
+        "id": "GREEN-CORR-3",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "park_green",
+        "name_zh": "京张遗址公园中北段绿带",
+        "ecological_status": "primary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3425,
+              39.965
+            ],
+            [
+              116.3425,
+              39.9835
+            ],
+            [
+              116.3475,
+              39.9835
+            ],
+            [
+              116.3475,
+              39.965
+            ],
+            [
+              116.3425,
+              39.965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-CORR-4",
+      "properties": {
+        "id": "GREEN-CORR-4",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "park_green",
+        "name_zh": "京张遗址公园AI原点段绿带",
+        "ecological_status": "primary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3425,
+              39.9835
+            ],
+            [
+              116.3425,
+              39.9935
+            ],
+            [
+              116.3475,
+              39.9935
+            ],
+            [
+              116.3475,
+              39.9835
+            ],
+            [
+              116.3425,
+              39.9835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-CORR-5",
+      "properties": {
+        "id": "GREEN-CORR-5",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "park_green",
+        "name_zh": "京张遗址公园过渡段绿带",
+        "ecological_status": "primary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3425,
+              39.9935
+            ],
+            [
+              116.3425,
+              40.0075
+            ],
+            [
+              116.3475,
+              40.0075
+            ],
+            [
+              116.3475,
+              39.9935
+            ],
+            [
+              116.3425,
+              39.9935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-CORR-6",
+      "properties": {
+        "id": "GREEN-CORR-6",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "park_green",
+        "name_zh": "京张遗址公园北段绿带",
+        "ecological_status": "primary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3475,
+              40.0075
+            ],
+            [
+              116.3425,
+              40.0075
+            ],
+            [
+              116.3425,
+              40.02240000000012
+            ],
+            [
+              116.3427,
+              40.0265
+            ],
+            [
+              116.3475,
+              40.0265
+            ],
+            [
+              116.3475,
+              40.0075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-WEST-1",
+      "properties": {
+        "id": "GREEN-WEST-1",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "西侧社区公园A",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.341,
+              39.948
+            ],
+            [
+              116.341,
+              39.942
+            ],
+            [
+              116.34061666666666,
+              39.942
+            ],
+            [
+              116.34045,
+              39.948
+            ],
+            [
+              116.341,
+              39.948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-WEST-2",
+      "properties": {
+        "id": "GREEN-WEST-2",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "西侧社区公园B",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3415,
+              39.968
+            ],
+            [
+              116.3415,
+              39.96
+            ],
+            [
+              116.34011666666666,
+              39.96
+            ],
+            [
+              116.33989444444444,
+              39.968
+            ],
+            [
+              116.3415,
+              39.968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-WEST-3",
+      "properties": {
+        "id": "GREEN-WEST-3",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "西侧社区公园C",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.3415,
+              39.992
+            ],
+            [
+              116.3415,
+              39.985
+            ],
+            [
+              116.34034516129032,
+              39.985
+            ],
+            [
+              116.34079677419355,
+              39.992
+            ],
+            [
+              116.3415,
+              39.992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-EAST-1",
+      "properties": {
+        "id": "GREEN-EAST-1",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "东侧社区公园A",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.349,
+              39.945
+            ],
+            [
+              116.349,
+              39.952
+            ],
+            [
+              116.353,
+              39.952
+            ],
+            [
+              116.353,
+              39.945
+            ],
+            [
+              116.349,
+              39.945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-EAST-2",
+      "properties": {
+        "id": "GREEN-EAST-2",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "东侧社区公园B",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.349,
+              39.97
+            ],
+            [
+              116.349,
+              39.978
+            ],
+            [
+              116.353,
+              39.978
+            ],
+            [
+              116.353,
+              39.97
+            ],
+            [
+              116.349,
+              39.97
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-EAST-3",
+      "properties": {
+        "id": "GREEN-EAST-3",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "东侧社区公园C",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.349,
+              39.995
+            ],
+            [
+              116.349,
+              40.005
+            ],
+            [
+              116.353,
+              40.005
+            ],
+            [
+              116.353,
+              39.995
+            ],
+            [
+              116.349,
+              39.995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GREEN-EAST-4",
+      "properties": {
+        "id": "GREEN-EAST-4",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "medium",
+        "geometry_role": "design_proposal",
+        "green_type": "community_park",
+        "name_zh": "东侧社区公园D",
+        "ecological_status": "community_green",
+        "connectivity_role": "node",
+        "maintenance": "public_space_operator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.349,
+              40.018
+            ],
+            [
+              116.349,
+              40.025
+            ],
+            [
+              116.353,
+              40.025
+            ],
+            [
+              116.353,
+              40.018
+            ],
+            [
+              116.349,
+              40.018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.346,
+              39.97
+            ],
+            [
+              116.348,
+              39.97
+            ],
+            [
+              116.348,
+              39.975
+            ],
+            [
+              116.346,
+              39.975
+            ],
+            [
+              116.346,
+              39.97
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GREEN-ECO-1",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "green_type": "ecological_corridor",
+        "name_zh": "小月河生态廊道",
+        "ecological_status": "secondary_corridor",
+        "connectivity_role": "corridor",
+        "maintenance": "municipal"
+      },
+      "id": "GREEN-ECO-1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.349,
+              39.972
+            ],
+            [
+              116.351,
+              39.972
+            ],
+            [
+              116.351,
+              39.974
+            ],
+            [
+              116.349,
+              39.974
+            ],
+            [
+              116.349,
+              39.972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GREEN-RAIN-1",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "green_type": "rain_garden",
+        "name_zh": "大钟寺雨水花园",
+        "ecological_status": "stormwater_management",
+        "connectivity_role": "node",
+        "maintenance": "municipal"
+      },
+      "id": "GREEN-RAIN-1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.343,
+              39.96
+            ],
+            [
+              116.345,
+              39.96
+            ],
+            [
+              116.345,
+              39.962
+            ],
+            [
+              116.343,
+              39.962
+            ],
+            [
+              116.343,
+              39.96
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GREEN-ROOF-1",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "green_type": "green_roof",
+        "name_zh": "众智园绿屋顶系统",
+        "ecological_status": "building_integrated",
+        "connectivity_role": "node",
+        "maintenance": "building_owner"
+      },
+      "id": "GREEN-ROOF-1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.347,
+              39.955
+            ],
+            [
+              116.349,
+              39.955
+            ],
+            [
+              116.349,
+              39.957
+            ],
+            [
+              116.347,
+              39.957
+            ],
+            [
+              116.347,
+              39.955
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "GREEN-ROOF-2",
+        "layer": "GREEN_SPACE",
+        "source_type": "agent_generated_design",
+        "confidence": "low",
+        "geometry_role": "design_proposal",
+        "green_type": "green_roof",
+        "name_zh": "原点社区绿屋顶系统",
+        "ecological_status": "building_integrated",
+        "connectivity_role": "node",
+        "maintenance": "building_owner"
+      },
+      "id": "GREEN-ROOF-2"
+    }
+  ]
+}

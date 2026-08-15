@@ -63,7 +63,7 @@
       "ai_package_stages": {
         "submissions/565431hzhang/jingzhang-ai-heritage-halo": "formal"
       },
-      "total_bytes": 2040094,
+      "total_bytes": 2203248,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -105,11 +105,11 @@
       ],
       "metrics": {
         "site_area_sqm": 11412825.386,
-        "green_space_area_sqm": 5561347.001,
-        "public_space_area_sqm": 279960.853,
-        "building_footprint_area_sqm": 648798.432,
-        "green_ratio": 0.487289,
-        "public_space_ratio": 0.02453
+        "green_space_area_sqm": 5613527.193,
+        "public_space_area_sqm": 465961.14,
+        "building_footprint_area_sqm": 667771.706,
+        "green_ratio": 0.491861,
+        "public_space_ratio": 0.040828
       }
     },
     "stderr": ""
@@ -122,8 +122,8 @@
       "issues": [],
       "metrics_seen": {
         "site_area_sqm": 11412825.386,
-        "green_ratio": 0.487289,
-        "public_space_ratio": 0.02453
+        "green_ratio": 0.491861,
+        "public_space_ratio": 0.040828
       }
     },
     "stderr": ""

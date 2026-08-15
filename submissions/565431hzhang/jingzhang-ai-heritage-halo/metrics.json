@@ -98,7 +98,7 @@
     },
     "building_footprint_area_sqm": {
       "status": "known",
-      "value": 648798.432,
+      "value": 667771.706,
       "unit": "sqm",
       "source_files": [
         "geometry/buildings.geojson"
@@ -111,7 +111,7 @@
     },
     "building_count": {
       "status": "known",
-      "value": 129,
+      "value": 131,
       "unit": "count",
       "source_files": [
         "geometry/buildings.geojson"
@@ -124,7 +124,7 @@
     },
     "green_space_area_sqm": {
       "status": "known",
-      "value": 5561347.001,
+      "value": 5613527.193,
       "unit": "sqm",
       "source_files": [
         "geometry/green_space.geojson"
@@ -137,7 +137,7 @@
     },
     "green_ratio": {
       "status": "known",
-      "value": 0.487289,
+      "value": 0.491861,
       "unit": "ratio",
       "source_files": [
         "geometry/green_space.geojson",
@@ -151,7 +151,7 @@
     },
     "public_space_area_sqm": {
       "status": "known",
-      "value": 279960.853,
+      "value": 465961.14,
       "unit": "sqm",
       "source_files": [
         "geometry/public_space.geojson"
@@ -164,7 +164,7 @@
     },
     "public_space_ratio": {
       "status": "known",
-      "value": 0.02453,
+      "value": 0.040828,
       "unit": "ratio",
       "source_files": [
         "geometry/public_space.geojson",
@@ -386,7 +386,7 @@
     },
     "green_space_type_count": {
       "status": "known",
-      "value": 2,
+      "value": 5,
       "unit": "count",
       "source_files": [
         "geometry/green_space.geojson"
@@ -399,7 +399,7 @@
     },
     "building_type_count": {
       "status": "known",
-      "value": 5,
+      "value": 8,
       "unit": "count",
       "source_files": [
         "geometry/buildings.geojson"
@@ -412,7 +412,7 @@
     },
     "road_hierarchy_levels": {
       "status": "known",
-      "value": 3,
+      "value": 6,
       "unit": "count",
       "source_files": [
         "geometry/roads.geojson"
@@ -436,7 +436,7 @@
     },
     "green_space_feature_count": {
       "status": "known",
-      "value": 13,
+      "value": 17,
       "unit": "count",
       "source_files": [
         "geometry/green_space.geojson"
@@ -449,7 +449,7 @@
     },
     "public_space_feature_count": {
       "status": "known",
-      "value": 20,
+      "value": 23,
       "unit": "count",
       "source_files": [
         "geometry/public_space.geojson"
