@@ -21,7 +21,11 @@
         "transit_priority": "not_priority",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "coordinated_signal",
+        "autonomous_ready": "partial",
+        "iot_sensors": "pedestrian_count",
+        "ev_charging": "limited"
       },
       "geometry": {
         "type": "LineString",
@@ -100,7 +104,11 @@
         "transit_priority": "not_applicable",
         "surface": "permeable_paving",
         "lighting": "standard",
-        "drainage": "permeable"
+        "drainage": "permeable",
+        "smart_traffic": "not_applicable",
+        "autonomous_ready": "false",
+        "iot_sensors": "footfall_environmental",
+        "ev_charging": "not_available"
       },
       "geometry": {
         "type": "LineString",
@@ -199,7 +207,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",
@@ -298,7 +310,11 @@
         "transit_priority": "not_priority",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "coordinated_signal",
+        "autonomous_ready": "partial",
+        "iot_sensors": "pedestrian_count",
+        "ev_charging": "limited"
       },
       "geometry": {
         "type": "LineString",
@@ -397,7 +413,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",
@@ -496,7 +516,11 @@
         "transit_priority": "not_priority",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "coordinated_signal",
+        "autonomous_ready": "partial",
+        "iot_sensors": "pedestrian_count",
+        "ev_charging": "limited"
       },
       "geometry": {
         "type": "LineString",
@@ -543,7 +567,11 @@
         "transit_priority": "not_priority",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "coordinated_signal",
+        "autonomous_ready": "partial",
+        "iot_sensors": "pedestrian_count",
+        "ev_charging": "limited"
       },
       "geometry": {
         "type": "LineString",
@@ -590,7 +618,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",
@@ -637,7 +669,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",
@@ -684,7 +720,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",
@@ -731,7 +771,11 @@
         "transit_priority": "not_priority",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "coordinated_signal",
+        "autonomous_ready": "partial",
+        "iot_sensors": "pedestrian_count",
+        "ev_charging": "limited"
       },
       "geometry": {
         "type": "LineString",
@@ -774,7 +818,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",
@@ -821,7 +869,11 @@
         "transit_priority": "not_priority",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "coordinated_signal",
+        "autonomous_ready": "partial",
+        "iot_sensors": "pedestrian_count",
+        "ev_charging": "limited"
       },
       "geometry": {
         "type": "LineString",
@@ -868,7 +920,11 @@
         "transit_priority": "eligible",
         "surface": "asphalt",
         "lighting": "standard",
-        "drainage": "conventional"
+        "drainage": "conventional",
+        "smart_traffic": "adaptive_signal",
+        "autonomous_ready": "true",
+        "iot_sensors": "traffic_flow_air_quality",
+        "ev_charging": "available"
       },
       "geometry": {
         "type": "LineString",

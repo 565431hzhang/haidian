@@ -18,7 +18,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -64,7 +68,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -110,7 +118,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -156,7 +168,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -202,7 +218,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -248,7 +268,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -294,7 +318,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -340,7 +368,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -386,7 +418,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -432,7 +468,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -478,7 +518,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -524,7 +568,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -570,7 +618,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -616,7 +668,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -662,7 +718,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -708,7 +768,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -754,7 +818,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -800,7 +868,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -846,7 +918,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -892,7 +968,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -938,7 +1018,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -984,7 +1068,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1030,7 +1118,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1076,7 +1168,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1122,7 +1218,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1168,7 +1268,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1214,7 +1318,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1260,7 +1368,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1306,7 +1418,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1352,7 +1468,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1398,7 +1518,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1444,7 +1568,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1490,7 +1618,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1536,7 +1668,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1582,7 +1718,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1628,7 +1768,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1674,7 +1818,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1720,7 +1868,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1766,7 +1918,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1812,7 +1968,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1858,7 +2018,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1904,7 +2068,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1950,7 +2118,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -1996,7 +2168,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2042,7 +2218,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2088,7 +2268,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2134,7 +2318,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2180,7 +2368,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2226,7 +2418,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2272,7 +2468,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2318,7 +2518,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2364,7 +2568,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2410,7 +2618,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2456,7 +2668,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2502,7 +2718,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2548,7 +2768,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2594,7 +2818,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2640,7 +2868,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2686,7 +2918,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2732,7 +2968,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2778,7 +3018,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2824,7 +3068,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2870,7 +3118,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -2916,7 +3168,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -2962,7 +3218,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -3008,7 +3268,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -3054,7 +3318,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -3100,7 +3368,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -3146,7 +3418,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -3192,7 +3468,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -3238,7 +3518,11 @@
         "floor_count": "3-5",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_incubation",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -3284,7 +3568,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "renovate_or_new",
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_r_and_d_lab",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -3330,7 +3618,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3376,7 +3668,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3422,7 +3718,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3468,7 +3768,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3514,7 +3818,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3560,7 +3868,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3606,7 +3918,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3652,7 +3968,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3698,7 +4018,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3744,7 +4068,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3790,7 +4118,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3836,7 +4168,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3882,7 +4218,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3928,7 +4268,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -3974,7 +4318,11 @@
         "floor_count": "6-10",
         "renewal_strategy": "renovate",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_showroom",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4017,7 +4365,11 @@
         "name_zh": "居住建筑",
         "area_sqm_declared": 4554.819,
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4060,7 +4412,11 @@
         "name_zh": "居住建筑",
         "area_sqm_declared": 4554.163,
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4106,7 +4462,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4152,7 +4512,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4198,7 +4562,11 @@
         "floor_count": "4-6",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4244,7 +4612,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4290,7 +4662,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4336,7 +4712,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4382,7 +4762,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4428,7 +4812,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4474,7 +4862,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4520,7 +4912,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4566,7 +4962,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4612,7 +5012,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "true",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -4655,7 +5059,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4553.497,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4698,7 +5106,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4553.495,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4741,7 +5153,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4553.493,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4784,7 +5200,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4552.841,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4827,7 +5247,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4552.839,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4870,7 +5294,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 432.52,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -4913,7 +5341,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4551.529,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -4956,7 +5388,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4551.527,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -4999,7 +5435,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 2345.567,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -5042,7 +5482,11 @@
         "name_zh": "商业服务建筑",
         "area_sqm_declared": 4550.212,
         "green_roof_eligible": "true",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -5088,7 +5532,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5134,7 +5582,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5180,7 +5632,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5226,7 +5682,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5272,7 +5732,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5318,7 +5782,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5364,7 +5832,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5410,7 +5882,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5456,7 +5932,11 @@
         "floor_count": "2-4",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "false"
+        "pv_eligible": "false",
+        "ai_function": "ai_service_hub",
+        "compute_infrastructure": "cloud_access",
+        "data_infrastructure": "public_data_kiosk",
+        "smart_building_system": "energy_management"
       },
       "geometry": {
         "type": "Polygon",
@@ -5499,7 +5979,11 @@
         "name_zh": "走廊文化公共建筑",
         "area_sqm_declared": 2846.024,
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -5542,7 +6026,11 @@
         "name_zh": "走廊文化公共建筑",
         "area_sqm_declared": 2846.023,
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -5585,7 +6073,11 @@
         "name_zh": "走廊文化公共建筑",
         "area_sqm_declared": 2846.022,
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -5628,7 +6120,11 @@
         "name_zh": "走廊文化公共建筑",
         "area_sqm_declared": 2845.614,
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -5671,7 +6167,11 @@
         "name_zh": "走廊文化公共建筑",
         "area_sqm_declared": 2845.613,
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -5714,7 +6214,11 @@
         "name_zh": "走廊文化公共建筑",
         "area_sqm_declared": 2845.613,
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_community_service",
+        "compute_infrastructure": "shared_compute_access",
+        "data_infrastructure": "community_network",
+        "smart_building_system": "occupancy_optimization"
       },
       "geometry": {
         "type": "Polygon",
@@ -5760,7 +6264,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -5806,7 +6314,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",
@@ -5852,7 +6364,11 @@
         "floor_count": "2-3",
         "renewal_strategy": "retain",
         "green_roof_eligible": "false",
-        "pv_eligible": "true"
+        "pv_eligible": "true",
+        "ai_function": "ai_test_facility",
+        "compute_infrastructure": "edge_compute_rack",
+        "data_infrastructure": "local_network",
+        "smart_building_system": "building_automation"
       },
       "geometry": {
         "type": "Polygon",

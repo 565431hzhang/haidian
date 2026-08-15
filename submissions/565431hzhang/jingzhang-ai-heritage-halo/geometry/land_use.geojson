@@ -18,7 +18,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "residential_or_commercial",
         "far_conceptual": "1.5-2.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_living_lab",
+        "compute_demand": "low",
+        "data_flow": "community_feedback"
       },
       "geometry": {
         "type": "Polygon",
@@ -76,7 +79,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -130,7 +136,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -192,7 +201,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_experience_retail",
+        "compute_demand": "medium",
+        "data_flow": "public_to_private"
       },
       "geometry": {
         "type": "Polygon",
@@ -262,7 +274,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "residential_or_commercial",
         "far_conceptual": "1.5-2.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_living_lab",
+        "compute_demand": "low",
+        "data_flow": "community_feedback"
       },
       "geometry": {
         "type": "Polygon",
@@ -332,7 +347,10 @@
         "mixed_use_eligible": "false",
         "ground_floor": "open_space",
         "far_conceptual": "0.1-0.5",
-        "parking_strategy": "surface_limited"
+        "parking_strategy": "surface_limited",
+        "ai_industry_type": "ai_outdoor_testbed",
+        "compute_demand": "low",
+        "data_flow": "sensor_to_public"
       },
       "geometry": {
         "type": "Polygon",
@@ -394,7 +412,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "residential_or_commercial",
         "far_conceptual": "1.5-2.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_living_lab",
+        "compute_demand": "low",
+        "data_flow": "community_feedback"
       },
       "geometry": {
         "type": "Polygon",
@@ -448,7 +469,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -518,7 +542,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -584,7 +611,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -654,7 +684,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -712,7 +745,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -754,7 +790,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",
@@ -828,7 +867,10 @@
         "mixed_use_eligible": "true",
         "ground_floor": "commercial_or_public",
         "far_conceptual": "2.0-3.5",
-        "parking_strategy": "underground_shared"
+        "parking_strategy": "underground_shared",
+        "ai_industry_type": "ai_r_and_d",
+        "compute_demand": "high",
+        "data_flow": "research_to_development"
       },
       "geometry": {
         "type": "Polygon",

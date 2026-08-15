@@ -20,7 +20,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "ai_navigation_kiosk",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "voice_guidance_indoor_navigation"
       },
       "geometry": {
         "type": "Polygon",
@@ -308,7 +311,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "ai_navigation_kiosk",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "voice_guidance_indoor_navigation"
       },
       "geometry": {
         "type": "Polygon",
@@ -596,7 +602,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "ai_navigation_kiosk",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "voice_guidance_indoor_navigation"
       },
       "geometry": {
         "type": "Polygon",
@@ -884,7 +893,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "footfall_analytics_anonymous",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "tactile_paving_with_beacons"
       },
       "geometry": {
         "type": "Polygon",
@@ -1172,7 +1184,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "footfall_analytics_anonymous",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "tactile_paving_with_beacons"
       },
       "geometry": {
         "type": "Polygon",
@@ -1460,7 +1475,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "footfall_analytics_anonymous",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "tactile_paving_with_beacons"
       },
       "geometry": {
         "type": "Polygon",
@@ -1748,7 +1766,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "footfall_analytics_anonymous",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "tactile_paving_with_beacons"
       },
       "geometry": {
         "type": "Polygon",
@@ -2036,7 +2057,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "footfall_analytics_anonymous",
+        "public_wifi": "mesh_network",
+        "accessibility_tech": "tactile_paving_with_beacons"
       },
       "geometry": {
         "type": "Polygon",
@@ -2324,7 +2348,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -2612,7 +2639,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -2900,7 +2930,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -3188,7 +3221,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -3476,7 +3512,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -3764,7 +3803,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -4052,7 +4094,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -4340,7 +4385,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -4628,7 +4676,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -4916,7 +4967,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -5204,7 +5258,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
@@ -5372,7 +5429,10 @@
         "water_feature": "false",
         "accessibility_features": "barrier_free_ramps_tactile_paving",
         "seating_type": "integrated_benches",
-        "wayfinding": "multilingual_signage"
+        "wayfinding": "multilingual_signage",
+        "ai_scenario": "environmental_display",
+        "public_wifi": "limited_hotspot",
+        "accessibility_tech": "standard"
       },
       "geometry": {
         "type": "Polygon",
