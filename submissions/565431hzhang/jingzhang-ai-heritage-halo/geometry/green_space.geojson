@@ -261,8 +261,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "西侧社区公园A",
+        "green_type": "ecological_corridor",
+        "name_zh": "大钟寺西侧生态廊道",
         "area_sqm_declared": 26571.596
       },
       "geometry": {
@@ -302,8 +302,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "西侧社区公园B",
+        "green_type": "rain_garden",
+        "name_zh": "大钟寺雨水花园",
         "area_sqm_declared": 113425.873
       },
       "geometry": {
@@ -343,8 +343,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "西侧社区公园C",
+        "green_type": "green_roof",
+        "name_zh": "原点社区绿屋顶系统",
         "area_sqm_declared": 61677.262
       },
       "geometry": {
@@ -384,8 +384,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "东侧社区公园A",
+        "green_type": "ecological_corridor",
+        "name_zh": "大钟寺东侧生态廊道",
         "area_sqm_declared": 265704.0
       },
       "geometry": {
@@ -425,8 +425,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "东侧社区公园B",
+        "green_type": "rain_garden",
+        "name_zh": "原点社区雨水花园",
         "area_sqm_declared": 303550.257
       },
       "geometry": {
@@ -466,8 +466,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "东侧社区公园C",
+        "green_type": "green_roof",
+        "name_zh": "众智园绿屋顶系统",
         "area_sqm_declared": 379295.69
       },
       "geometry": {
@@ -507,8 +507,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "green_type": "community_park",
-        "name_zh": "东侧社区公园D",
+        "green_type": "pocket_ecological",
+        "name_zh": "众智园生态花园",
         "area_sqm_declared": 265424.669
       },
       "geometry": {

@@ -64,7 +64,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "4529354382d184fea6c2fd76f487196251fd63d29c245536fb312b1546b8a5b4"
+      "sha256": "4deec306042e2e644a4780193a7c3ff2f0ee025b490329c3f19f843f52fe1bee"
     },
     {
       "path": "compliance_matrix.json",
@@ -235,7 +235,7 @@
       "path": "geometry/buildings.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "230d48d60b728a91e42d2e46c6c40fc3412218dc04c075c4736a0dd1737b7ca3"
+      "sha256": "67f6959be81354907c17cfaa1fb6b4d990b942fd91e99dcc667bb8f24003773f"
     },
     {
       "path": "geometry/constraints.geojson",
@@ -247,7 +247,7 @@
       "path": "geometry/green_space.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "71944de4b3720b5e31bb3ad50cb4e40222b15e15b6e069fc99540c47bcc9421d"
+      "sha256": "0edc66c376e4261da78fc28831e463a0d8f44ef542a261d3e18d9d5557e918b9"
     },
     {
       "path": "geometry/key_areas.geojson",
@@ -271,7 +271,7 @@
       "path": "geometry/public_space.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "dd8a52b3a391117fbef6dbfaca174019875383bfe6d3b102ac4be32c72a9bdcc"
+      "sha256": "2e850995d91aac23bdd365993b59fd8633bdf790fef4533e9be6c12150df4050"
     },
     {
       "path": "geometry/roads.geojson",

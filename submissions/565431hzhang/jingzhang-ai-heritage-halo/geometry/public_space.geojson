@@ -2259,8 +2259,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "public_space_type": "pocket_park",
-        "name_zh": "西侧口袋公园1",
+        "public_space_type": "community_garden",
+        "name_zh": "社区共享花园",
         "area_sqm_declared": 7441.189
       },
       "geometry": {
@@ -3102,8 +3102,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "public_space_type": "pocket_park",
-        "name_zh": "东侧口袋公园2",
+        "public_space_type": "waterfront_promenade",
+        "name_zh": "滨水步道",
         "area_sqm_declared": 7439.252
       },
       "geometry": {
@@ -3383,8 +3383,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "public_space_type": "pocket_park",
-        "name_zh": "西侧口袋公园3",
+        "public_space_type": "cultural_plaza",
+        "name_zh": "文化广场",
         "area_sqm_declared": 7437.868
       },
       "geometry": {
@@ -4226,8 +4226,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "public_space_type": "pocket_park",
-        "name_zh": "东侧口袋公园4",
+        "public_space_type": "community_garden",
+        "name_zh": "社区共享花园",
         "area_sqm_declared": 7436.038
       },
       "geometry": {
@@ -4507,8 +4507,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "public_space_type": "pocket_park",
-        "name_zh": "西侧口袋公园5",
+        "public_space_type": "cultural_plaza",
+        "name_zh": "文化广场",
         "area_sqm_declared": 7434.653
       },
       "geometry": {
@@ -5230,8 +5230,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "public_space_type": "pocket_park",
-        "name_zh": "东侧口袋公园6",
+        "public_space_type": "waterfront_promenade",
+        "name_zh": "滨水步道",
         "area_sqm_declared": 7433.143
       },
       "geometry": {

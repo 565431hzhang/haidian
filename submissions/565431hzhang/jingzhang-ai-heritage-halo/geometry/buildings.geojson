@@ -339,8 +339,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
-        "name_zh": "众智园AI研发建筑",
+        "building_type": "lab",
+        "name_zh": "众智园实验室建筑",
         "area_sqm_declared": 5359.026
       },
       "geometry": {
@@ -708,8 +708,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
-        "name_zh": "众智园AI研发建筑",
+        "building_type": "office",
+        "name_zh": "众智园实验室建筑",
         "area_sqm_declared": 5358.309
       },
       "geometry": {
@@ -1077,8 +1077,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
-        "name_zh": "众智园AI研发建筑",
+        "building_type": "talent_apartment",
+        "name_zh": "众智园实验室建筑",
         "area_sqm_declared": 5359.02
       },
       "geometry": {
@@ -1487,8 +1487,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
-        "name_zh": "众智园AI研发建筑",
+        "building_type": "education",
+        "name_zh": "众智园实验室建筑",
         "area_sqm_declared": 5359.494
       },
       "geometry": {
@@ -1856,8 +1856,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
-        "name_zh": "众智园AI研发建筑",
+        "building_type": "community_service",
+        "name_zh": "众智园实验室建筑",
         "area_sqm_declared": 5358.777
       },
       "geometry": {
@@ -2225,7 +2225,7 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
+        "building_type": "incubator",
         "name_zh": "AI原点创新建筑",
         "area_sqm_declared": 6209.643
       },
@@ -2553,7 +2553,7 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
+        "building_type": "mobility_hub",
         "name_zh": "AI原点创新建筑",
         "area_sqm_declared": 6209.638
       },
@@ -2881,7 +2881,7 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
+        "building_type": "lab",
         "name_zh": "AI原点创新建筑",
         "area_sqm_declared": 6209.632
       },
@@ -4603,8 +4603,8 @@
         "source_type": "agent_generated_design",
         "confidence": "medium",
         "geometry_role": "design_proposal",
-        "building_type": "ai_r_and_d",
-        "name_zh": "走廊AI研发公共建筑",
+        "building_type": "office",
+        "name_zh": "走廊实验室公共建筑",
         "area_sqm_declared": 2847.088
       },
       "geometry": {
